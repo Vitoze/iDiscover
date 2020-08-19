@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnlistCheckin"
+        android:icon="@mipmap/ic_playlist_add_check_black_24dp"
+        android:title="Check-Ins" />
+    <item
+        android:id="@+id/btnlistSubscription"
+        android:icon="@mipmap/ic_subscriptions_black_24dp"
+        android:title="Incrições" />
+</menu>
